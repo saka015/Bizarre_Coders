@@ -14,11 +14,11 @@ const Joinus = () => {
   
 <div className="jooin py-2">
       <a href="https://www.linkedin.com/company/bizarre-coders/?viewAsMember=true&original_referer=" target='_blank'><h2 className='my-8 bg-slate-400 roun
-       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='fa fa-linkedin text-2xl animate-pulse font-semibold text-blue-800'></i> LinkedIN </h2></a>
+       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='fa fa-linkedin text-2xl hover:animate-spin font-semibold text-blue-800'></i> LinkedIN </h2></a>
       <a href="https://chat.whatsapp.com/Gsvo89niVhKCJnfKzsG13F" target='_blank'><h2 className='my-8 bg-slate-400 roun
-       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='fa fa-whatsapp  text-2xl animate-pulse font-semibold text-green-700'></i> Whatsapp  </h2></a>
+       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='fa fa-whatsapp  text-2xl hover:animate-spin font-semibold text-green-700'></i> Whatsapp  </h2></a>
         <a href="https://www.youtube.com/@BizarreCoders" target='_blank'><h2 className='my-8 bg-slate-400 roun
-       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='fa fa-youtube text-2xl animate-pulse font-semibold text-red-800'></i> Youtube </h2></a>
+       w-48 p-2 m-2 font-semibold text-center cursor-pointer' > <i className='hover:animate-spin fa fa-youtube text-2xl  font-semibold text-red-800'></i> Youtube </h2></a>
        </div>
        
 <div className="why w-[650px] p-4 mx-12">

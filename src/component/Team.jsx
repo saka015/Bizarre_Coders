@@ -18,15 +18,15 @@ const Team = (props) => {
       
       <div className="flex box-content">
       <Card name="Kamal Nayan" img={kamal} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
-      <Card name="Agrim Sharma" img={agrim} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
-      <Card name="Mehak" img={mehak} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
+      <Card name="Agrim Sharma" img={agrim} github={`https://github.com/Agrim-Sharma174`} linkedin={'https://www.linkedin.com/in/agrim-sharma174/'} />
+      <Card name="Mehak" img={mehak} github={`https://github.com/mehak-2`} linkedin={'https://www.linkedin.com/in/mehak-45a190245'} />
       </div>
       <div className="flex box-content">
-      <Card name="Suraj Pandey" img={suraj} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
-      <Card name="Simar Sidhu" img={simar} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
-      <Card name="Aryan Sharma" img={aryan} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
+      <Card name="Suraj Pandey" img={suraj} github={`https://gitHub.com/SurajjBhardwaj`} linkedin={'https://www.linkedin.com/in/surajjbhardwaj'} />
+      <Card name="Simar Sidhu" img={simar} github={`https://github.com/simsid124`} linkedin={'https://www.linkedin.com/in/simar-sidhu-828333246/'} />
+      <Card name="Aryan Sharma" img={aryan} github={`https://github.com/aryan-codes-star`} linkedin={'https://www.linkedin.com/in/aryan-sharma17/'} />
       </div>
-      <Card name="Diksha" img={diksha} github={`https://github.com/saka015`} linkedin={'https://www.linkedin.com/in/saka015/'} />
+      <Card name="Diksha" img={diksha} github={`https://github.com/diksha-34`} linkedin={'https://www.linkedin.com/in/diksha-sharma-824548244'} />
 
 
 
