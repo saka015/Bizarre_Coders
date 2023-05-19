@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     
-<footer className="bg-white end-0  dark:bg-slate-800 mb-0">
+<footer className=" end-0 sticky top-full bg-slate-800 mb-0">
     <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
       <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://#.com/" className="hover:underline">Bizarre Coders™</a>. All Rights Reserved.
     </span>

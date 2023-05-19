@@ -13,15 +13,15 @@ export class Navbar extends Component {
         {/* <li className='px-4 cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>
         <Link className="nav-link active" aria-current="page" to="/home">About</Link>
         </li> */}
-        <li className='px-4 cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>
-        <Link className="nav-link active" aria-current="page" to="/team">Team</Link>
-        </li>
-        <li className='px-4 cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>
-        <Link className="nav-link active" aria-current="page" to="/testimonials">Testimonials</Link>
-        </li>
-        <li className='px-4 cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>
-        <Link className="nav-link active" aria-current="page" to="/joinus">Join Us!</Link>
-        </li>
+        <Link className="nav-link active" aria-current="page" to="/team"><li className='px-4  cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>
+        Team
+        </li></Link>
+        
+        <Link className="nav-link active" aria-current="page" to="/testimonials"><li className='px-4  cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>Testimonials</li></Link>
+        
+        
+        <Link className="nav-link active" aria-current="page" to="/joinus"><li className='px-4 cursor-pointer hover:translate-y-1 transition-all duration-1000 hover:bg-slate-700 hover:text-white '>Join Us!</li></Link>
+        
 
     </ul>
 

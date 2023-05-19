@@ -5,7 +5,8 @@ import seminar from '../dukan/seminar.png'
 const Testimonials = () => {
   return (
     <div>
-         <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-4 '>Testimonials</h1>
+      <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-4'><br /></h1>
+
          <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-4 '>Testimonials</h1>
 
          

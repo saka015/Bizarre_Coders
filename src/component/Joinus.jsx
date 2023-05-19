@@ -6,7 +6,7 @@ const Joinus = () => {
   return (
     <div className='mb-12 '>
       <div className=''>
-      <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-4'>Join Us!</h1>
+      <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-4'><br /></h1>
       <h1 className='text-3xl text-center font-semibold font-serif bg-slate-700 text-white p-3 '>Join Us!</h1>
 
 <div className="main flex my-8">
